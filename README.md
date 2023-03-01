@@ -73,4 +73,5 @@ This will copy the generated header to your clipboard.
 
 ## Credits
 
+Forked from t11s's [`headers`](https://github.com/transmissions11/headers)
 Inspired by virtualjpeg's [`blocky`](https://github.com/virtualjpeg/blocky).
