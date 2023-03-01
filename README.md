@@ -2,7 +2,7 @@
 
 Generate perfect code headers every time.
 
-⚠️ This is an exact copy of [t11s's tool](https://github.com/transmissions11/headers) - I just didn't like that when collapsing the whole file the headers are folded as wellg
+⚠️ This is an exact copy of [t11s's tool](https://github.com/transmissions11/headers) - I just didn't like that when collapsing the whole file the headers are folded as well
 
 ## Build
 
